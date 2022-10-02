@@ -1,0 +1,56 @@
+body {
+}
+.main {
+  position: absolute;
+  border: solid;
+  border-color: black 2px;
+  width: 48%;
+
+  height: 60%;
+  margin-left: 20%;
+  margin-top: 10%;
+}
+.first {
+  position: absolute;
+  border: solid 2px grey;
+  width: 35%;
+  height: 80%;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+.img1 {
+  position: absolute;
+
+  width: 100%;
+  height: 80%;
+}
+.Sam {
+  position: absolute;
+  margin-top: 100%;
+  padding: 20px;
+}
+.second {
+  position: absolute;
+  border: solid 2px grey;
+  width: 35%;
+  height: 80%;
+  margin-left: 55%;
+  margin-top: 5%;
+}
+.img2 {
+  position: absolute;
+
+  width: 100%;
+  height: 80%;
+}
+.Michael {
+  position: absolute;
+  margin-top: 100%;
+  padding: 20px;
+}
+.details {
+  position: absolute;
+  display: inline;
+  margin-left: 40%;
+  margin-top: 5%;
+}
